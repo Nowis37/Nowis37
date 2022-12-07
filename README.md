@@ -1,6 +1,6 @@
 ### Nowis Codeur
 
-Salut ! Moi c'est Simon, je fais actuellement une formation diplômante de développeur web chez OpenClassRooms 🎓 et je travail sur beaucoup de projets de manière autodidacte de mon côté. 
+Salut ! Moi c'est Simon, je fais actuellement une formation diplômante de développeur web chez OpenClassRooms 🎓 et je travail sur beaucoup d'autres projets de manière autodidacte de mon côté. 
 
 Quelques informations sur moi:
   <br>ㅤㅤ•ㅤ🎓 Je fais une formation de développeur web chez OpenClassRooms,
